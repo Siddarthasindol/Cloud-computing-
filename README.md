@@ -4,4 +4,4 @@ cloud computing is like having a virtual storage space and computer power.Instea
 EXAMPLE :
 One example of cloud computng is when you use an online storage services like Google Drive or Dropbox.Instead of saving your files only on your device, you can upload them to the cloud .This way you can access and share your files from any device with the internet connection.Its convenient and saves you from worrying about losing your files if something happens to your device.
 some other examples of cloud computing are Microsoft OneDrive,and iCloud 
-ADVANTAGES OF 
+
